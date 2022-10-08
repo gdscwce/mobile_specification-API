@@ -501,7 +501,15 @@
   "front camera":"16MP",
   "back camera":"108MP",
   "battery":"5020 mAh",
-  
   "e-commerce website link":"https://www.mi.com/global/product/redmi-note-11-pro-5g/"
   },
+  {
+  "Model name":"iQOO Z6 Lite 5G",
+  "company":"iQOO",
+  "launch by date":"14 September 2022",
+  "front camera":"8MP",
+  "back camera":"50MP+2MP",
+  "battery":"5000 mAh",
+  "e-commerce website link":"https://www.amazon.in/iQOO-Snapdragon-Segment-Purchased-Separately/dp/B07WJV6P1R/ref=sr_1_12_sspa?crid=28O6H9B6MP9YV&keywords=mobile&qid=1665212989&qu=eyJxc2MiOiI4LjI2IiwicXNhIjoiNy44MCIsInFzcCI6IjYuNzkifQ%3D%3D&sprefix=mobil%2Caps%2C191&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTFMTTg0UlYyME1BJmVuY3J5cHRlZElkPUEwNjAwNzU2MkRPTDA2RFM2Q1ZRNCZlbmNyeXB0ZWRBZElkPUEwNDM1NDM5MU5XVlQxMTBRSTFTRCZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
+  }
 ]
