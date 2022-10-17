@@ -514,6 +514,15 @@
   "battery":"5000 mAh",
   "e-commerce website link":"https://www.gsmarena.com/xiaomi_poco_m4_pro_5g-11193.php"
 },
+{
+  "Model name":"S20 FE 5g",
+  "company":"SAMSUNG",
+  "launch by date":"May 2021",
+  "front camera":"32MP",
+  "back camera":"12MP + 12MP + 12MP",
+  "battery":"4400 mAh",
+  "e-commerce website link":"https://www.91mobiles.com/samsung-galaxy-s20-fe-5g-price-in-india"
+}
   {
   "Model name":"Samsung Galaxy S20 FE 5G",
   "company":"Samsung",
@@ -623,4 +632,5 @@
   
   "e-commerce website link":"https://www.poco.in/pocoF4_5G"
   },
+
 ]
