@@ -39,6 +39,16 @@
   
   "e-commerce website link":"https://www.po.co/global/product/poco-x3-pro/overview"
   },
+   {
+  "Model name":"Redmi %A",
+  "company":"Xiaomi",
+  "launch by date":"22 march 2018",
+  "front camera":"16MP",
+  "back camera":"8MP",
+  "battery":"2700mAh",
+  
+  "e-commerce website link":"https://www.amazon.in/Renewed-Redmi-32GB-3GB-Gold/dp/B07QGLT6J1/ref=sr_1_1?adgrpid=59612335820&ext_vrnc=hi&hvadid=398119253414&hvdev=c&hvlocphy=1007789&hvnetw=g&hvqmt=e&hvrand=6858464191715703774&hvtargid=kwd-418450337945&hydadcr=25228_2176368&keywords=redmi+mobile+5a&qid=1665250017&qu=eyJxc2MiOiIzLjI4IiwicXNhIjoiMS4xNSIsInFzcCI6IjAuMDAifQ%3D%3D&sr=8-1"
+  },
   {
   "Model name":"Poco X4 PRO 5G",
   "company":"Xiaomi",
@@ -494,6 +504,7 @@
   "battery":"5000 mAh",
   "e-commerce website link":"https://www.gsmarena.com/xiaomi_poco_m4_pro_5g-11193.php"
 },
+
 {
   "Model name":"Tecno Spark Power 2 Air",
   "company":"Tecno",
@@ -502,5 +513,64 @@
   "back camera":"13MP",
   "battery":"6000 mAh",
   "e-commerce website link":"https://www.flipkart.com/tecno-spark-power-2-air-ice-jadeite-32-gb/p/itm129ff186c0d7e"
-}
+},
+
+   {
+  "Model name":"Redmi Note 11 Pro 5G",
+  "company":"Xiaomi",
+  "launch by date":"26 january 2022",
+  "front camera":"16MP",
+  "back camera":"108MP",
+  "battery":"5020 mAh",
+  
+  "e-commerce website link":"https://www.mi.com/global/product/redmi-note-11-pro-5g/"
+  },
+{
+  "Model name":"Realme 9",
+  "company":"Realme",
+  "launch by date":"10th March 2022",
+  "front camera":"16MP",
+  "back camera":"48MP + 2MP + 2MP",
+  "battery":"5000 mAh",
+  "e-commerce website link":"https://buy.realme.com/in/goods/517"
+},
+  {
+  "Model name":"Realme 9 pro",
+  "company":"Realme",
+  "launch by date":"10th March 2022",
+  "front camera":"16MP",
+  "back camera":"48MP + 2MP + 2MP",
+  "battery":"5000 mAh",
+  "e-commerce website link":"https://buy.realme.com/in/goods/517"
+},
+  {
+  "Model name":"Realme 9 pro max",
+  "company":"Realme",
+  "launch by date":"10th March 2022",
+  "front camera":"16MP",
+  "back camera":"48MP + 2MP + 2MP",
+  "battery":"5000 mAh",
+  "e-commerce website link":"https://buy.realme.com/in/goods/517"
+},
+   {
+  "Model name":"Oppo F17 pro",
+  "company":"oppo",
+  "launch by date":"September 7, 2020",
+  "front camera":"16MP",
+  "back camera":"48MP+ 8 + 2MP + 2MP",
+  "battery":"4015 mAh",
+  "e-commerce website link":"https://www.oppo.com/in/smartphones/series-f/f17-pro/specs/"
+   },
+]
+ {
+  "Model name":"POCO F4 5G",
+  "company":"Xiaomi",
+  "launch by date":"23rd June 2021",
+  "front camera":"20MP",
+  "back camera":"64MP",
+  "battery":"4500mAh",
+  
+  "e-commerce website link":"https://www.poco.in/pocoF4_5G"
+  },
+
 ]
