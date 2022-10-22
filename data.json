@@ -583,7 +583,7 @@
   "back camera":"50MP+2MP",
   "battery":"5000 mAh",
   "e-commerce website link":"https://www.amazon.in/iQOO-Snapdragon-Segment-Purchased-Separately/dp/B07WJV6P1R/ref=sr_1_12_sspa?crid=28O6H9B6MP9YV&keywords=mobile&qid=1665212989&qu=eyJxc2MiOiI4LjI2IiwicXNhIjoiNy44MCIsInFzcCI6IjYuNzkifQ%3D%3D&sprefix=mobil%2Caps%2C191&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTFMTTg0UlYyME1BJmVuY3J5cHRlZElkPUEwNjAwNzU2MkRPTDA2RFM2Q1ZRNCZlbmNyeXB0ZWRBZElkPUEwNDM1NDM5MU5XVlQxMTBRSTFTRCZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
-  }
+  },
 
 {
   "Model name":"Realme 9",
@@ -679,5 +679,24 @@
   },
 
 
+{
+  "Model name":"iQOO 9 Pro 5G",
+  "company":"iQOO",
+  "launch by date":"January 12 2022",
+  "front camera":"16MP",
+  "back camera":"50MP",
+  "battery":"4700 mAh",
+  "e-commerce website link":"https://www.amazon.in/iQOO-Storage-Snapdragon-Processor-FlashCharge/dp/B07WHPVM7N/ref=sxin_15?adgrpid=67252140415&asc_contentid=amzn1.osa.f23449af-5b9d-45a6-a3b0-79213f46f7d8.A21TJRUUN4KGV.en_IN&asc_contenttype=article&ascsubtag=amzn1.osa.f23449af-5b9d-45a6-a3b0-79213f46f7d8.A21TJRUUN4KGV.en_IN&content-id=amzn1.sym.5ddd0a98-0444-4cd7-ad42-d5b6aca160cf%3Aamzn1.sym.5ddd0a98-0444-4cd7-ad42-d5b6aca160cf&creativeASIN=B07WHPVM7N&cv_ct_cx=gaming+mobile&cv_ct_id=amzn1.osa.f23449af-5b9d-45a6-a3b0-79213f46f7d8.A21TJRUUN4KGV.en_IN&cv_ct_pg=search&cv_ct_we=asin&cv_ct_wn=osp-single-source-all-asins&ext_vrnc=hi&hvadid=398133964766&hvdev=c&hvlocphy=1007809&hvnetw=g&hvqmt=e&hvrand=16486282812915782790&hvtargid=kwd-1045222967214&hydadcr=24571_1971437&keywords=gaming+mobile&linkCode=oas&pd_rd_i=B07WHPVM7N&pd_rd_r=8856e4b6-05f9-410d-b5f6-b99a26fb1203&pd_rd_w=6OrMS&pd_rd_wg=8Kzi2&pf_rd_p=5ddd0a98-0444-4cd7-ad42-d5b6aca160cf&pf_rd_r=REMAV8V56T6H56V66TBV&qid=1666461547&qu=eyJxc2MiOiI2Ljk2IiwicXNhIjoiNi4zOCIsInFzcCI6IjMuNjUifQ%3D%3D&sr=1-1-887d48f0-d798-4604-a3e5-14d9d204cf06&tag=91articles-21"
+ },
+ 
+ {
+  "Model name":"ASUS ROG Phone 5",
+  "company":"ASUS",
+  "launch by date":"April 26 2021",
+  "front camera":"24MP",
+  "back camera":"64MP",
+  "battery":"6000 mAh",
+  "e-commerce website link":"https://www.flipkart.com/asus-rog-phone-5-white-128-gb/p/itm2c1e1dea0edee?pid=MOBGYSZMRKX8WWZA&lid=LSTMOBGYSZMRKX8WWZA7ADMRC&marketplace=FLIPKART&q=ROG+MOBILE&store=tyy%2F4io&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=3da0b6cc-e278-4cd4-8559-fb4ee3d7d564.MOBGYSZMRKX8WWZA.SEARCH&ppt=hp&ppn=homepage&ssid=wl0p7nrkqo0000001666462199730&qH=09b5e7313e33dd95"
+ }
 
 ]
