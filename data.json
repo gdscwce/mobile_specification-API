@@ -522,7 +522,7 @@
   "back camera":"12MP + 12MP + 12MP",
   "battery":"4400 mAh",
   "e-commerce website link":"https://www.91mobiles.com/samsung-galaxy-s20-fe-5g-price-in-india"
-}
+},
   {
   "Model name":"Samsung Galaxy S20 FE 5G",
   "company":"Samsung",
@@ -622,7 +622,7 @@
   "e-commerce website link":"https://www.oppo.com/in/smartphones/series-f/f17-pro/specs/"
    },
 
- {
+   {
   "Model name":"POCO F4 5G",
   "company":"Xiaomi",
   "launch by date":"23rd June 2021",
@@ -643,5 +643,41 @@
   
   "e-commerce website link":"https://gadgets360.com/realme-gt-2-price-in-india-104989"
   },
+
+
+{
+  "Model name":"LG K71",
+  "company":"LG",
+  "launch by date":"2020, September 21",
+  "front camera":"20MP",
+  "back camera":"48MP",
+  "battery":"4000 mAh",
+  
+  "e-commerce website link":"https://www.gsmarena.com/lg_k71-10458.php"
+  },
+
+  {
+  "Model name":"Redmagic 7",
+  "company":"Redmagic",
+  "launch by date":"17th February 2022",
+  "front camera":"20MP",
+  "back camera":"64MP",
+  "battery":"4500mAh",
+  "e-commerce website link" : "https://www.amazon.com/REDMAGIC-Smartphone-Snapdragon-Unlocked-Transparent/dp/B09S5WZXX3/ref=sr_1_2?crid=2B1LVZMGK9FMM&keywords=redmagic%2B7&qid=1666358532&qu=eyJxc2MiOiIzLjA1IiwicXNhIjoiMi4zMCIsInFzcCI6IjEuNDkifQ%3D%3D&sprefix=REDMAGIC%2B%2Caps%2C304&sr=8-2&th=1"
+  },
+  
+
+{
+  "Model name":"OnePlus Ace Pro",
+  "company":"OnePlus",
+  "launch by date":"9 august 2022",
+  "front camera":"16MP",
+  "back camera":"50MP",
+  "battery":"4800mAh",
+  
+  "e-commerce website link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjBkJHKkrr6AhUYMSsKHfqGAZoYABAAGgJzZg&ohost=www.google.com&cid=CAESauD2N9XBfCzBSbHvrUEAeWwR0aaU5i2jrhA7D91z1mYyRdKF0loDXvzuuav46wlHqZim8GQtAMCbom00TBnn_aEXvwYI-ZLm5r6UFfeZO0MKugB_0uhR3F6f5gotBRCmYaV5E9EChzUCGY8&sig=AOD64_1hgwMyccLn6zesxVKCDnzEAowr7w&q&adurl&ved=2ahUKEwjKjYvKkrr6AhXjcGwGHZhqDfEQ0Qx6BAgFEAE"
+  },
+
+
 
 ]
