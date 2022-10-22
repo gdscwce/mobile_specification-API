@@ -621,7 +621,7 @@
   "battery":"4015 mAh",
   "e-commerce website link":"https://www.oppo.com/in/smartphones/series-f/f17-pro/specs/"
    },
-]
+
  {
   "Model name":"POCO F4 5G",
   "company":"Xiaomi",
@@ -631,6 +631,17 @@
   "battery":"4500mAh",
   
   "e-commerce website link":"https://www.poco.in/pocoF4_5G"
+  },
+
+ {
+  "Model name":"Realme Gt 2",
+  "company":"Realme",
+  "launch by date":"4th January 2022",
+  "front camera":"16MP",
+  "back camera":"50MP",
+  "battery":"5000mAh",
+  
+  "e-commerce website link":"https://gadgets360.com/realme-gt-2-price-in-india-104989"
   },
 
 ]
