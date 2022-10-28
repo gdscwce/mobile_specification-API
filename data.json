@@ -583,7 +583,7 @@
   "back camera":"50MP+2MP",
   "battery":"5000 mAh",
   "e-commerce website link":"https://www.amazon.in/iQOO-Snapdragon-Segment-Purchased-Separately/dp/B07WJV6P1R/ref=sr_1_12_sspa?crid=28O6H9B6MP9YV&keywords=mobile&qid=1665212989&qu=eyJxc2MiOiI4LjI2IiwicXNhIjoiNy44MCIsInFzcCI6IjYuNzkifQ%3D%3D&sprefix=mobil%2Caps%2C191&sr=8-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTFMTTg0UlYyME1BJmVuY3J5cHRlZElkPUEwNjAwNzU2MkRPTDA2RFM2Q1ZRNCZlbmNyeXB0ZWRBZElkPUEwNDM1NDM5MU5XVlQxMTBRSTFTRCZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU="
-  }
+  },
 
 {
   "Model name":"Realme 9",
@@ -677,7 +677,14 @@
   
   "e-commerce website link":"https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjBkJHKkrr6AhUYMSsKHfqGAZoYABAAGgJzZg&ohost=www.google.com&cid=CAESauD2N9XBfCzBSbHvrUEAeWwR0aaU5i2jrhA7D91z1mYyRdKF0loDXvzuuav46wlHqZim8GQtAMCbom00TBnn_aEXvwYI-ZLm5r6UFfeZO0MKugB_0uhR3F6f5gotBRCmYaV5E9EChzUCGY8&sig=AOD64_1hgwMyccLn6zesxVKCDnzEAowr7w&q&adurl&ved=2ahUKEwjKjYvKkrr6AhXjcGwGHZhqDfEQ0Qx6BAgFEAE"
   },
-
-
-
+  {
+      "Model name":"Asus Zenfone Max Pro M1",
+      "company":"Asus",
+      "launch by date":"April 2018",
+      "front camera":"5MP",
+      "back camera":"16MP",
+      "battery":"5000mAh",
+      "e-commerce website link":"https://amzn.eu/d/fJshDhX"
+  }
+  
 ]
